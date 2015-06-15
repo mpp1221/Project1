@@ -9,7 +9,7 @@ public class JavaExam1Question5 {
 		
 		Scanner mpp = new Scanner(System.in);
 		
-		System.out.print(" Please Enter your age here : ");
+		System.out.print(" Please Enter your age here  number: ");
 		int age = mpp.nextInt();
 		if (age >= 21 && age <= 35){
 			System.out.println(" You are young ");
